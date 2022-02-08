@@ -1,0 +1,1 @@
+{"version":3,"file":"DispatcherModule.js","sourceRoot":"","sources":["../../src/dispatcher/DispatcherModule.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,6CAAoD;AACpD,uCAA0D;AAO1D,IAAa,gBAAgB,GAA7B,MAAa,gBAAgB;CAC5B,CAAA;AADY,gBAAgB;IAJ5B,IAAA,eAAM,EAAC;QACN,SAAS,EAAE,CAAC,oBAAU,EAAE,2BAAiB,CAAC;QAC1C,WAAW,EAAE,CAAC,iCAAoB,CAAC;KACpC,CAAC;GACW,gBAAgB,CAC5B;AADY,4CAAgB"}
